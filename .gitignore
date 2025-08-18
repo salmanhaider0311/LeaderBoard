@@ -1,0 +1,71 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Ignore debug binaries and object files
+APP.LeaderBoard/src/APP.LeaderBoard.Core/bin/Debug/
+APP.LeaderBoard/src/APP.LeaderBoard.Core/obj/Debug/net8.0/
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/bin/Debug/net8.0/
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/obj/Debug/net8.0/
+APP.LeaderBoard/src/APP.LeaderBoard.Shared/bin/Debug/net8.0/
+APP.LeaderBoard/src/APP.LeaderBoard.Shared/obj/Debug/net8.0/
+APP.LeaderBoard/src/APP.LeaderBoard.Web/bin/Debug/net8.0/
+APP.LeaderBoard/src/APP.LeaderBoard.Web/obj/Debug/net8.0/
+
+# Ignore Visual Studio files and folders
+APP.LeaderBoard/src/App.LeaderBoard.Core/.vs/
+
+APP.LeaderBoard/.vs/
+
+# Ignore release binaries
+APP.LeaderBoard/src/APP.LeaderBoard.Core/bin/Release/net8.0/
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/bin/Release/net8.0/
+APP.LeaderBoard/src/APP.LeaderBoard.Shared/bin/Release/net8.0/
+
+# Ignore specific directories and files
+APP.LeaderBoard/src/APP.LeaderBoard.Web/bin/
+APP.LeaderBoard/src/APP.LeaderBoard.Web/obj/
+APP.LeaderBoard/src/APP.LeaderBoard.Web/properties/
+APP.LeaderBoard/src/APP.LeaderBoard.Web/APP.LeaderBoard.Web.csproj.user
+
+
+
+
+APP.LeaderBoard/.vs/APP.LeaderBoard/v17
+APP.LeaderBoard/src/APP.LeaderBoard.Core/bin/Debug/net8.0
+APP.LeaderBoard/src/APP.LeaderBoard.Core/obj/Debug/net8.0
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/bin/Debug/net8.0
+APP.LeaderBoard/.vs/APP.LeaderBoard/v17
+APP.LeaderBoard/src/APP.LeaderBoard.Core/bin/Debug/net8.0
+APP.LeaderBoard/src/APP.LeaderBoard.Core/obj
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/bin
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/obj
+APP.LeaderBoard/src/APP.LeaderBoard.Shared/bin
+APP.LeaderBoard/src/APP.LeaderBoard.Shared/obj
+APP.LeaderBoard/src/APP.LeaderBoard.Web/bin
+APP.LeaderBoard/src/APP.LeaderBoard.Web/obj
+APP.LeaderBoard/.vs/APP.LeaderBoard/DesignTimeBuild
+/APP.LeaderBoard/APP.LeaderBoard.sln
+APP.LeaderBoard/.vs/APP.LeaderBoard/FileContentIndex
+APP.LeaderBoard/src/APP.LeaderBoard.Core/.vs/APP - Backup.NOD.Site.Core/FileContentIndex
+APP.LeaderBoard/src/APP.LeaderBoard.Core/.vs/APP - Backup.NOD.Site.Core/v17
+APP.LeaderBoard/src/APP.LeaderBoard.Core/.vs/ProjectEvaluation
+APP.LeaderBoard/src/APP.LeaderBoard.Core/bin
+APP.LeaderBoard/src/APP.LeaderBoard.Core/obj
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/.vs/APP.LeaderBoard.Infrastructure/DesignTimeBuild
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/.vs/APP.LeaderBoard.Infrastructure/v17
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/.vs/APP.LeaderBoard.Infrastructure/FileContentIndex
+APP.LeaderBoard/.vs/APP.LeaderBoard/FileContentIndex
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/.vs/ProjectEvaluation
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/bin
+APP.LeaderBoard/src/APP.LeaderBoard.Shared/.vs
+APP.LeaderBoard/src/APP.LeaderBoard.Infrastructure/obj
+APP.LeaderBoard/src/APP.LeaderBoard.Shared/bin
+APP.LeaderBoard/src/APP.LeaderBoard.Shared/obj
+APP.LeaderBoard/src/APP.LeaderBoard.Web/.vs
+APP.LeaderBoard/src/APP.LeaderBoard.Web/bin
+APP.LeaderBoard/src/APP.LeaderBoard.Web/obj/Release
+APP.LeaderBoard/src/APP.LeaderBoard.Web/obj
+APP.LeaderBoard/src/APP.LeaderBoard.Web/Properties
+APP.LeaderBoard/.vs/ProjectEvaluation
+APP.LeaderBoard/.vs/ProjectEvaluation
