@@ -1,0 +1,6 @@
+@App.LeaderBoard.Web_HostAddress = http://localhost:5116
+
+GET {{App.LeaderBoard.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
