@@ -12,6 +12,8 @@ APP.LeaderBoard/src/APP.LeaderBoard.Shared/obj/Debug/net8.0/
 APP.LeaderBoard/src/APP.LeaderBoard.Web/bin/Debug/net8.0/
 APP.LeaderBoard/src/APP.LeaderBoard.Web/obj/Debug/net8.0/
 
+APP.LeaderBoard/src/APP.LeaderBoard.Application/Debug/
+
 # Ignore Visual Studio files and folders
 APP.LeaderBoard/src/App.LeaderBoard.Core/.vs/
 
@@ -30,6 +32,7 @@ APP.LeaderBoard/src/APP.LeaderBoard.Web/APP.LeaderBoard.Web.csproj.user
 
 
 
+APP.LeaderBoard/src/APP.LeaderBoard.Application/bin/Debug/net8.0/
 
 APP.LeaderBoard/.vs/APP.LeaderBoard/v17
 APP.LeaderBoard/src/APP.LeaderBoard.Core/bin/Debug/net8.0
@@ -69,3 +72,6 @@ APP.LeaderBoard/src/APP.LeaderBoard.Web/obj
 APP.LeaderBoard/src/APP.LeaderBoard.Web/Properties
 APP.LeaderBoard/.vs/ProjectEvaluation
 APP.LeaderBoard/.vs/ProjectEvaluation
+APP.LeaderBoard/APP.LeaderBoard.Application/bin
+APP.LeaderBoard/APP.LeaderBoard.Application/obj
+APP.LeaderBoard/src/App.LeaderBoard.Infrastructure/src/obj
